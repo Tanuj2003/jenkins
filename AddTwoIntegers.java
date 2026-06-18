@@ -5,6 +5,6 @@ int second = 20;
 int sum = first + second;
 System.out.println("The sum is: " + sum);
 System.out.println("Please run  job");
-System.outprintln("This is wehooks job");
+System.outprintln("This is wehook job");
 }
 }
