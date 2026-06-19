@@ -6,5 +6,6 @@ int sum = first + second;
 System.out.println("The sum is: " + sum);
 System.out.println("Please run  job");
 System.out.println("This is wehook job");
+System.out.println("This second webhook job");
 }
 }
